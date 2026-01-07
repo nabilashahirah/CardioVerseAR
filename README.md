@@ -53,7 +53,7 @@ To use the AR mode, you must have the **Special AR Marker**.
 
 ### Step 1: Get the Marker
 The app requires a specific image to recognize where to place the 3D model.
-1.  **Download/View the Marker:** [**Click here to view the AR Marker**](./path/to/your/special-image.jpg](https://github.com/nabilashahirah/CardioVerseAR/blob/main/Special%20Image%20(MARKER).jpg) *(Replace this with your image link)*
+1.  **Download/View the Marker:** [**Click here to view the AR Marker**](Special Image (MARKER).jpg) *(Replace this with your image link)*
 2.  You can print this image out **OR** open it on a second screen (laptop/tablet).
 
 ### Step 2: Launch AR Mode
