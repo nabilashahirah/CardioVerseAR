@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Android-green?logo=android)](https://www.android.com/)
 [![Engine](https://img.shields.io/badge/Engine-Unity-black?logo=unity)](https://unity.com/)
 [![Tech](https://img.shields.io/badge/AR-ARCore-blue?logo=google-ar)](https://developers.google.com/ar)
-[![Status](https://img.shields.io/badge/Release-v1.0-blue)]()
+[![Status](https://img.shields.io/badge/Release-v1.0-blue)](https://github.com/nabilashahirah/CardioVerseAR/releases/tag/v1.0)
 
 **CardioVerse** is an interactive educational mobile application designed to simplify the learning of heart physiology and Electrocardiogram (ECG) training through Augmented Reality (AR). By using a physical target marker, users can visualize 3D anatomical models to master lead placements and cardiac structures.
 
@@ -11,9 +11,9 @@
 
 ## 📥 Download & Install
 
-**[📲 Download CardioVerse APK (v1.0)](PASTE_YOUR_APK_DOWNLOAD_LINK_HERE)**
+**[📲 Download CardioVerse APK (v1.0)](https://github.com/nabilashahirah/CardioVerseAR/releases/tag/v1.0)**
 
-> **Note:** Since this app is not on the Play Store, you may need to "Allow apps from unknown sources" in your Android settings to install it.
+> **Note:** Click the link above, then look under "Assets" to find the `.apk` file. Since this app is not on the Play Store, you may need to "Allow apps from unknown sources" in your Android settings to install it.
 
 ---
 
@@ -53,7 +53,7 @@ To use the AR mode, you must have the **Special AR Marker**.
 
 ### Step 1: Get the Marker
 The app requires a specific image to recognize where to place the 3D model.
-1.  **Download/View the Marker:** [**Click here to view the AR Marker**](Special Image (MARKER).jpg) *(Replace this with your image link)*
+1.  **Download/View the Marker:** [**Click here to view the AR Marker**](https://github.com/nabilashahirah/CardioVerseAR/blob/df107a9c780f9332f3d033c17a753c0e4496fb53/Special%20Image%20(MARKER).jpg)
 2.  You can print this image out **OR** open it on a second screen (laptop/tablet).
 
 ### Step 2: Launch AR Mode
@@ -79,4 +79,4 @@ If the 3D model does not appear or behaves incorrectly:
 ## 👤 Author
 
 Developed by **Nur Nabila Shahirah**.
-*Final Year Project / Independent Development*
+*Independent Development*
